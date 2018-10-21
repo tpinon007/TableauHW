@@ -1,2 +1,2 @@
 # TableauHW
-Screen shots of plots
+Screen shots of Citi bike data plots.
